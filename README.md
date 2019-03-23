@@ -1,3 +1,6 @@
+## 
+reference from https://github.com/googollee/go-socket.io/tree/v1.0 for use in go get with specific as brach v1 
+
 # socket.io
 
 [![GoDoc](http://godoc.org/github.com/googollee/go-socket.io?status.svg)](http://godoc.org/github.com/googollee/go-socket.io) [![Build Status](https://travis-ci.org/googollee/go-socket.io.svg)](https://travis-ci.org/googollee/go-socket.io)
